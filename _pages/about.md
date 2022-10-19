@@ -31,7 +31,3 @@ Rainer Haselmann, Shikhar Singla and Vikrant Vig
 
 7. **[Machine Unlearning Human Biases: Inclusive Word Embeddings by Excluding Biased Text](https://shikharsingla.com/files/debias_ss.pdf)**
 
-
-
-
-\item{\bf }\\
