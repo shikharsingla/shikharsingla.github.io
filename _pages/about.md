@@ -25,10 +25,11 @@ Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-muk
 <a href="wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: black; text-decoration: underline;">Rainer Haselmann</a>, <a href="https://sites.google.com/view/arkodiptasarkar/" style="color: black; text-decoration: underline;">Arkodipta Sarkar</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: black; text-decoration: underline;">Vikrant Vig</a>
 
 5. **[Capital Requirements, Market-Making, and Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250896)**\
-Rainer Haselmann, Thomas Kick, Shikhar Singla and Vikrant Vig
+<a href="wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: black; text-decoration: underline;">Rainer Haselmann</a>, <a href="https://www.bundesbank.de/en/thomas-kick" style="color: black; text-decoration: underline;">Thomas Kick</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: black; text-decoration: underline;">Vikrant Vig</a>
+
 
 6. **[Supranational Supervision]()**\
-Rainer Haselmann, Shikhar Singla and Vikrant Vig
+<a href="wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: black; text-decoration: underline;">Rainer Haselmann</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: black; text-decoration: underline;">Vikrant Vig</a>
 
 7. **[Machine Unlearning Human Biases: Inclusive Word Embeddings by Excluding Biased Text](https://shikharsingla.com/files/debias_ss.pdf)**
 
