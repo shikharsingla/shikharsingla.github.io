@@ -18,7 +18,8 @@ Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 2. **[Human-Centred AI investor using deep generative models, reinforcement learning and prospect theory]()**
 
 3. **[Gender Norms Do Not Persist But Converge Across Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183488)**\
-Shikhar Singla and [Mayukh Mukhopadhyay](https://www.london.edu/phd/profiles/mayukh-ketan-mukhopadhyay)
+Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-mukhopadhyay" style="color: black; text-decoration: underline;">Mayukh Mukhopadhyay</a>
+
 
 4. **[The Political Economy of Financial Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250919)**\
 Rainer Haselmann, Arkodipta Sarkar, Shikhar Singla and Vikrant Vig
