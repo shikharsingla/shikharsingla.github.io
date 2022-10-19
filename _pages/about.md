@@ -13,5 +13,25 @@ Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 
 ## Working papers
 
-**[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg_costs_market_power_ss.pdf)**\
+1. **[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg_costs_market_power_ss.pdf)**
 
+2. **[Human-Centred AI investor using deep generative models, reinforcement learning and prospect theory]()**
+
+3. **[Gender Norms Do Not Persist But Converge Across Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183488)**
+Shikhar Singla and Mayukh Mukhopadhyay
+
+4. **[The Political Economy of Financial Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250919)**
+Rainer Haselmann, Arkodipta Sarkar, Shikhar Singla and Vikrant Vig
+
+5. **[Capital Requirements, Market-Making, and Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250896)**
+Rainer Haselmann, Thomas Kick, Shikhar Singla and Vikrant Vig
+
+6. **[Supranational Supervision]()**
+Rainer Haselmann, Shikhar Singla and Vikrant Vig
+
+7. **[Machine Unlearning Human Biases: Inclusive Word Embeddings by Excluding Biased Text](https://shikharsingla.com/files/debias_ss.pdf)**
+
+
+
+
+\item{\bf }\\
