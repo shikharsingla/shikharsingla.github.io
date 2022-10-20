@@ -13,13 +13,7 @@ Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 
 ## Working papers
 
-1. **[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg_costs_market_power_ss.pdf)** <br/>
-<small>[ <a href="#/" onclick="visib('reg-costs')">Abstract</a> ]</small>
-
-<div id="reg-costs" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-</small><br><br/></div>
-
+1. **[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg_costs_market_power_ss.pdf)** 
 2. **[Human-Centred AI investor using deep generative models, reinforcement learning and prospect theory]()**
 
 3. **[Gender Norms Do Not Persist But Converge Across Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183488)**\
