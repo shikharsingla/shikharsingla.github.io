@@ -18,7 +18,8 @@ Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 
 <div id="included-vs-excluded" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Something
-
+</small><br><br/></div>
+  
 2. **[Human-Centred AI investor using deep generative models, reinforcement learning and prospect theory]()**
 
 3. **[Gender Norms Do Not Persist But Converge Across Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183488)**\
