@@ -17,7 +17,7 @@ Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 <small>[ <a href="#/" onclick="visib('reg-costs')">Abstract</a>]</small>
 
 <div id="reg-costs" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Something
+Something SomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomethingSomething
 </small><br><br/></div>
   
 2. **[Human-Centred AI investor using deep generative models, reinforcement learning and prospect theory]()**
