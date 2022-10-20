@@ -47,8 +47,6 @@ Economic nowcasting aims to provide predictions that i) are consistent across sp
 The literature has shown that satellite imagery can be used to measure economic conditions. This paper extends this approach by applying convolutional neural networks on establishment-level high-resolution satellite images to predict real-time firm-level sales, profitability and cash flows. The paper leverages recently available high-resolution satellite images made publicly available by Google and innovations in neural network architecture to extract the relevant features from the images that predict firms’ cash flows.
 </small><br><br/></div>
 
-
-
 ## Financial Regulation
 
 **[Capital Requirements, Market-Making, and Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250896)**\
