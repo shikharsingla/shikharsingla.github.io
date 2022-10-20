@@ -11,7 +11,9 @@ My research agenda is to use Artificial Intelligence techniques such as word emb
 
 Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 
-## <center> Supervised Learning and Regulations </center>
+### Research
+
+## Supervised Learning and Regulations
 
 
 **[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg_costs_market_power_ss.pdf)** 
@@ -19,7 +21,7 @@ Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 **[The Political Economy of Financial Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250919)**\
 <a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, <a href="https://sites.google.com/view/arkodiptasarkar/" style="color: gray; text-decoration: underline;">Arkodipta Sarkar</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>
 
-## <center> Word Embeddings and Gender Norms </center>
+## Word Embeddings and Gender Norms
 
 **[Gender Norms Do Not Persist But Converge Across Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183488)**\
 Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-mukhopadhyay" style="color: gray; text-decoration: underline;">Mayukh Mukhopadhyay</a>
@@ -27,7 +29,7 @@ Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-muk
 **[Machine Unlearning Human Biases: Inclusive Word Embeddings by Excluding Biased Text](https://shikharsingla.com/files/debias_ss.pdf)**
 
 
-## <center> Deep Learning in Asset Pricing </center>
+## Deep Learning and Asset Pricing
 
 **[Human-Centred AI investor Using Deep Generative Models, Reinforcement Learning and Prospect Theory]()**
 
@@ -47,7 +49,7 @@ The literature has shown that satellite imagery can be used to measure economic 
 
 
 
-## <center> Financial Regulation </center>
+## Financial Regulation
 
 **[Capital Requirements, Market-Making, and Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250896)**\
 <a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, <a href="https://www.bundesbank.de/en/thomas-kick" style="color: gray; text-decoration: underline;">Thomas Kick</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>
