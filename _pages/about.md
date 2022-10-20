@@ -14,16 +14,16 @@ Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 ## Working papers
 
 1. **[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg_costs_market_power_ss.pdf)**\
-<small>[ <a href="#/" onclick="visib('included-vs-excluded')">Abstract</a>]
+<!-- <small>[ <a href="#/" onclick="visib('included-vs-excluded')">Abstract</a>]
 
 <div id="included-vs-excluded" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Something
-</small><br><br/></div>
+</small><br><br/></div> -->
   
 2. **[Human-Centred AI investor using deep generative models, reinforcement learning and prospect theory]()**
 
 3. **[Gender Norms Do Not Persist But Converge Across Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183488)**\
-Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-mukhopadhyay" style="color: black; text-decoration: underline;">Mayukh Mukhopadhyay</a>
+Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-mukhopadhyay" style="color: gray; text-decoration: underline;">Mayukh Mukhopadhyay</a>
 
 
 4. **[The Political Economy of Financial Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250919)**\
