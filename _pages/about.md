@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research agenda is to use artificial intelligence techniques such as word embeddings, deep neural networks, generative models, reinforcement learing, supervised learning, entity recognition into finance areas like regulations, norms and human biases and asset pricing. 
+My research agenda is to use artificial intelligence techniques such as word embeddings, deep neural networks, generative models, reinforcement learing, supervised learning, entity recognition into finance areas like regulations, norms and biases and asset pricing. 
 
 Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 
