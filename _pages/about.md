@@ -11,7 +11,7 @@ My research agenda is to use Artificial Intelligence techniques such as word emb
 
 Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 
-### Research
+# Research
 
 ## Supervised Learning and Regulations
 
