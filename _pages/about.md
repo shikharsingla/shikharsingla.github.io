@@ -38,3 +38,9 @@ Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-muk
 
 7. **[Machine Unlearning Human Biases: Inclusive Word Embeddings by Excluding Biased Text](https://shikharsingla.com/files/debias_ss.pdf)**
 
+8. **Regulatory Costs and Market Power**
+<small>[ <a href="#/" onclick="visib('included-vs-excluded')">Abstract</a>]
+
+<div id="included-vs-excluded" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Something
+</small><br><br/></div>
