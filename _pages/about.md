@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research interests lie in using Artificial Intelligence techniques such as word embeddings, data mining, deep generative models, deep reinforcement learing into finance areas like regulations, political economy and asset pricing. 
+My research agenda is to use Artificial Intelligence techniques such as word embeddings, data mining, deep neural networks, generative models, reinforcement learing into finance areas like regulations, political economy, norms and human biases and asset pricing. 
 
 Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 
