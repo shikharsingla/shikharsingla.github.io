@@ -13,7 +13,12 @@ Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 
 ## Working papers
 
-1. **[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg_costs_market_power_ss.pdf)**
+1. **[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg_costs_market_power_ss.pdf)**<br/>
+<small>[ <a href="#/" onclick="visib('identifying-prediction-mistakes')">Abstract</a>]</small>
+
+<div id="identifying-prediction-mistakes" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Something
+</small><br><br/></div>
   
 2. **[Human-Centred AI investor using deep generative models, reinforcement learning and prospect theory]()**
 
