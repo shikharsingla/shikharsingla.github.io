@@ -33,7 +33,7 @@ Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-muk
 
 **[Human-Centred AI investor Using Deep Generative Models, Reinforcement Learning and Prospect Theory]()**
 
-**Economic Nowcasting Using Deep Generative Adversarial Models**<br/>
+**Economic Nowcasting Using Deep Generative Models**<br/>
 <small>[ <a href="#/" onclick="visib('nowcast')">Abstract</a> | [Draft Coming Soon]]</small>
 
 <div id="nowcast" style="display: none; text-align: justify; line-height: 1.2" ><small>
