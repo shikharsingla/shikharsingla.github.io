@@ -1,7 +1,6 @@
 /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
-<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
 
 #main {
   @include container;
@@ -87,13 +86,13 @@
 
   dt {
     margin-top: 1em;
-    font-family: $Ubuntu;
+    font-family: $sans-serif;
     font-weight: bold;
   }
 
   dd {
     margin-left: 1em;
-    font-family: $Ubuntu;
+    font-family: $sans-serif;
     font-size: $type-size-6;
   }
 
