@@ -40,7 +40,7 @@ We investigate the evolution of gender norms for 160 years in the US. Socioecono
 </small><br><br/></div>
 
 **[Machine Unlearning Human Biases: Inclusive Word Embeddings by Excluding Biased Text](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183488)**<br/>
-<small>[ <a href="#/" onclick="visib('debias')">Abstract</a>]</small>
+<small>[ <a href="#/" onclick="visib('debias')">Abstract</a> ]</small>
 <div id="debias" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Word embeddings exhibit biases such as racial and gender biases due to the presence of these biases in the training corpus. Usage of these algorithms can increase the stereotypes in various contexts. We present a simple and generalizable approach of detecting the parts of a corpus that affect the bias and show how removing those parts can debias the word embeddings. The approach finds words that link the target words for a group and biased or attribute words (indirect bias). Unlike prior work, our approach a) removes the biases completely, b) removes indirect bias, and c) can be generalized to any type of bias, downstream task or word embedding model. We apply our methodology on Wikipedia and American National Corpus (ANC) for Word2Vec and GloVe models on the racial and gender biases. It is highly accurate in removing the biases without affecting the performance of the models in capturing semantic information.
 </small><br><br/></div>
@@ -54,7 +54,7 @@ Word embeddings exhibit biases such as racial and gender biases due to the prese
 </small><br><br/></div>
 
 **Economic Nowcasting Using Deep Generative Models**<br/>
-<small>[ <a href="#/" onclick="visib('nowcast')">Abstract</a> | Draft Coming Soon]</small>
+<small>[ <a href="#/" onclick="visib('nowcast')">Abstract</a> | Draft Coming Soon ]</small>
 <div id="nowcast" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Economic nowcasting aims to provide predictions that i) are consistent across spatial and temporal dimensions, ii) account for uncertainty and can be verified probabilistically, and iii) perform well on events that are rarer but critical. These characteristics are missing in commonly used deterministic nowcasting methods. Thus these models produce forecasts with higher errors at higher lead times and may not include small-scale yet important patterns. This paper overcomes these challenges by developing a novel deep generative model (DGM). The model is driven by two loss functions defined by spatial and temporal discriminators and a regularisation term. These terms guide parameter adjustment by comparing real observations with model-generated data. The first loss function ensures spatial consistency and discourages errors at higher lead times, whereas the second imposes temporal consistency and penalises jumpy predictions. The regularisation term further improves the accuracy by penalising deviations at the local level. The model architecture is based on stacked Convolutional Gated Recurrent (ConvGRU) Units.
 </small><br><br/></div>
