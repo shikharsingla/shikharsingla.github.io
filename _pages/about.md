@@ -17,7 +17,7 @@ Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 
 
 **[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg_costs_market_power_ss.pdf)**\
-<small>[ <a href="#/" onclick="visib('reg')">Abstract</a>]</small>
+<small>[ <a href="#/" onclick="visib('reg')">Abstract</a> ]</small>
 <div id="reg" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Increased market power and its impacts have been well documented. However, the causes of increased market power remain unknown. We hypothesize that the phenomenal increase in social regulations has disproportionately affected the small firms due to fixed costs, which has led to a rise in market power for the large firms. Regulatory compliance costs in actual dollars, affected industries, and whether the regulations impact small firms are reported by the regulators. This data is unique and not reported in any advanced economy except the US. We use two-step supervised machine learning and data mining to create the data from regulatory documents for social regulations, e.g., environmental regulations, at the 6-digit NAICS level for small and large firms. Regulatory costs have increased by $1 trillion from 1970 to 2018. Small firms face higher costs than large firms even after massive attempts from regulators and politicians to keep the burden on small firms to a minimum. Federal regulations allow us to exploit variation within state-industry-time groups to show that increased regulatory costs result in lower (higher) sales, employment, and markups for small (large) firms. Increased regulations explain 31-37% of the rise in market power.
 </small><br><br/></div>
@@ -25,7 +25,7 @@ Increased market power and its impacts have been well documented. However, the c
 
 **[The Political Economy of Financial Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250919)**\
 <a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, <a href="https://sites.google.com/view/arkodiptasarkar/" style="color: gray; text-decoration: underline;">Arkodipta Sarkar</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>\
-<small>[ <a href="#/" onclick="visib('pol')">Abstract</a>]</small>
+<small>[ <a href="#/" onclick="visib('pol')">Abstract</a> ]</small>
 <div id="pol" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Using the negotiation process of the Basel Committee on Banking Supervision (BCBS), this paper studies the way regulators form their positions on regulatory issues in the process of international standard-setting and the consequences on the resultant harmonized framework. Leveraging on leaked voting records and corroborating them using machine learning techniques on publicly available speeches, we construct a unique dataset containing the positions of banks and national regulators on the regulatory initiatives of Basel II and III. We document that the probability of a regulator opposing a specific initiative increases by 30% if their domestic national champion opposes the new rule, particularly when the proposed rule disproportionately affects them. We find the effect is driven by regulators who had prior experience of working in large banks - lending support to the private-interest theories of regulation. Meanwhile smaller banks, even when they collectively have a higher share in the domestic market, do not have any impact on regulators’ stand - providing little support to public-interest theories of regulation.  Finally, we show this decision-making process manifests into significant watering down of proposed rules, thereby limiting the potential gains from harmonization of international financial regulation.
 </small><br><br/></div>
@@ -34,7 +34,7 @@ Using the negotiation process of the Basel Committee on Banking Supervision (BCB
 
 **[Gender Norms Do Not Persist But Converge Across Time](https://shikharsingla.com/files/debias_ss.pdf)**\
 Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-mukhopadhyay" style="color: gray; text-decoration: underline;">Mayukh Mukhopadhyay</a>\
-<small>[ <a href="#/" onclick="visib('gender')">Abstract</a>]</small>
+<small>[ <a href="#/" onclick="visib('gender')">Abstract</a> ]</small>
 <div id="gender" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We investigate the evolution of gender norms for 160 years in the US. Socioeconomists have posited two fundamental and widely debated theories on the evolution of cultural norms across time. One argues that cultural norms should converge across time as economies become more advanced and integrated, whereas the other states that cultural traits are highly persistent, passed down from generation to generation. These theories remain untested due to a lack of granular and high-frequency data over a longer time period. We develop a novel unsupervised machine learning methodology and apply it to 193 million pages of local newspaper text to produce localised attitudes towards women on four dimensions: career vs family, attitudes towards abortion, attitudes towards feminism/suffrage, and violence against women. We establish novel facts on the evolution of attitudes across time. First, attitudes are less persistent than the existing literature hypothesises. Second, the persistence varies considerably across regions and dimensions. Third, attitudes exhibit cyclical patterns. Fourth, regional variation in attitudes decreases considerably over time and has fallen between 64% to 79%. Fifth, a decrease in transport costs that allows for easier information sharing is associated with a homogenisation of the norms.
 </small><br><br/></div>
@@ -49,7 +49,7 @@ Word embeddings exhibit biases such as racial and gender biases due to the prese
 ## Deep Learning and Asset Pricing
 
 **[Human-Centred AI investor Using Deep Generative Models, Reinforcement Learning and Prospect Theory]()**\
-<small>[ <a href="#/" onclick="visib('hai')">Abstract</a>]</small>
+<small>[ <a href="#/" onclick="visib('hai')">Abstract</a> ]</small>
 <div id="hai" style="display: none; text-align: justify; line-height: 1.2" ><small>
 </small><br><br/></div>
 
@@ -69,7 +69,7 @@ The literature has shown that satellite imagery can be used to measure economic 
 
 **[Capital Requirements, Market-Making, and Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250896)**\
 <a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, <a href="https://www.bundesbank.de/en/thomas-kick" style="color: gray; text-decoration: underline;">Thomas Kick</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>\
-<small>[ <a href="#/" onclick="visib('capital')">Abstract</a>]</small>
+<small>[ <a href="#/" onclick="visib('capital')">Abstract</a> ]</small>
 <div id="capital" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We employ a proprietary transaction-level dataset in Germany to examine how capital requirements affect the liquidity of corporate bonds. Using the 2011 European Banking Authority capital exercise that mandated certain banks to increase regulatory capital, we find that affected banks reduce their inventory holdings, pre-arrange more trades, and have smaller average trade size. While non-bank affiliated dealers increase their market-making activity, they are unable to bridge this gap - aggregate liquidity declines. Our results are stronger for banks with a higher capital shortfall, for non-investment grade bonds, and for bonds where the affected banks were the dominant market-maker.
 </small><br><br/></div>
@@ -82,7 +82,7 @@ We employ a proprietary transaction-level dataset in Germany to examine how capi
 
 **[Supranational Supervision]()**\
 <a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>\
-<small>[ <a href="#/" onclick="visib('supra')">Abstract</a>]</small>
+<small>[ <a href="#/" onclick="visib('supra')">Abstract</a> ]</small>
 <div id="supra" style="display: none; text-align: justify; line-height: 1.2" ><small>
 </small><br><br/></div>
 
