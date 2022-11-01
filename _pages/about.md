@@ -50,10 +50,10 @@ The literature has shown that satellite imagery can be used to measure economic 
 ## Financial Regulation
 
 **Capital Requirements, Market-Making, and Liquidity**\
-<a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, <a href="https://www.bundesbank.de/en/thomas-kick" style="color: gray; text-decoration: underline;">Thomas Kick</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>
-<small>[ <a href="#/" onclick="visib('image')">Abstract</a> | Draft Coming Soon]</small>
+<small><a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, <a href="https://www.bundesbank.de/en/thomas-kick" style="color: gray; text-decoration: underline;">Thomas Kick</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a></small>\
+<small>[ <a href="#/" onclick="visib('capital')">Abstract</a> | Draft Coming Soon]</small>
 
-<div id="image" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="capital" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We employ a proprietary transaction-level dataset in Germany to examine how capital requirements affect the liquidity of corporate bonds. Using the 2011 European Banking Authority capital exercise that mandated certain banks to increase regulatory capital, we find that affected banks reduce their inventory holdings, pre-arrange more trades, and have smaller average trade size. While non-bank affiliated dealers increase their market-making activity, they are unable to bridge this gap - aggregate liquidity declines. Our results are stronger for banks with a higher capital shortfall, for non-investment grade bonds, and for bonds where the affected banks were the dominant market-maker.
 </small><br><br/></div>
 
