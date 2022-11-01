@@ -32,7 +32,7 @@ Using the negotiation process of the Basel Committee on Banking Supervision (BCB
 
 ## Word Embeddings and Gender Norms
 
-**[Gender Norms Do Not Persist But Converge Across Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183488)**\
+**[Gender Norms Do Not Persist But Converge Across Time](https://shikharsingla.com/files/debias_ss.pdf)**\
 Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-mukhopadhyay" style="color: gray; text-decoration: underline;">Mayukh Mukhopadhyay</a>\
 <small>[ <a href="#/" onclick="visib('gender')">Abstract</a>]</small>
 <div id="gender" style="display: none; text-align: justify; line-height: 1.2" ><small>
