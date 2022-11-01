@@ -31,7 +31,7 @@ Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-muk
 
 ## Deep Learning and Asset Pricing
 
-**Human-Centred AI investor Using Deep Generative Models, Reinforcement Learning and Prospect Theory**
+**Human-Centred AI investor Using Deep Generative Models, Reinforcement Learning and Prospect Theory**\
 <small>[ <a href="#/" onclick="visib('hai')">Abstract</a> | [Draft]()]</small>
 <div id="hai" style="display: none; text-align: justify; line-height: 1.2" ><small>
 </small><br><br/></div>
