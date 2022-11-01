@@ -31,7 +31,10 @@ Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-muk
 
 ## Deep Learning and Asset Pricing
 
-**[Human-Centred AI investor Using Deep Generative Models, Reinforcement Learning and Prospect Theory]()**
+**Human-Centred AI investor Using Deep Generative Models, Reinforcement Learning and Prospect Theory**
+<small>[ <a href="#/" onclick="visib('hai')">Abstract</a> | [Draft]()]</small>
+<div id="hai" style="display: none; text-align: justify; line-height: 1.2" ><small>
+</small><br><br/></div>
 
 **Economic Nowcasting Using Deep Generative Models**<br/>
 <small>[ <a href="#/" onclick="visib('nowcast')">Abstract</a> | Draft Coming Soon]</small>
@@ -60,10 +63,10 @@ We employ a proprietary transaction-level dataset in Germany to examine how capi
 
 
 
-**[Supranational Supervision]()**\
+**Supranational Supervision**\
 <small><a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a></small>\
 <small>[ <a href="#/" onclick="visib('supra')">Abstract</a> | [Draft]()]</small>
-<div id="capital" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="supra" style="display: none; text-align: justify; line-height: 1.2" ><small>
 </small><br><br/></div>
 
 [//]: This java script is the button to show abstract
