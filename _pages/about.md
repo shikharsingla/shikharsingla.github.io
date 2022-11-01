@@ -26,7 +26,11 @@ Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 **[Gender Norms Do Not Persist But Converge Across Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183488)**\
 Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-mukhopadhyay" style="color: gray; text-decoration: underline;">Mayukh Mukhopadhyay</a>
 
-**[Machine Unlearning Human Biases: Inclusive Word Embeddings by Excluding Biased Text](https://shikharsingla.com/files/debias_ss.pdf)**
+**Machine Unlearning Human Biases: Inclusive Word Embeddings by Excluding Biased Text**<br/>
+<small>[ <a href="#/" onclick="visib('debias')">Abstract</a> | [Draft](https://shikharsingla.com/files/debias_ss.pdf)]</small>
+<div id="debias" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Economic nowcasting aims to provide predictions that i) are consistent across spatial and temporal dimensions, ii) account for uncertainty and can be verified probabilistically, and iii) perform well on events that are rarer but critical. These characteristics are missing in commonly used deterministic nowcasting methods. Thus these models produce forecasts with higher errors at higher lead times and may not include small-scale yet important patterns. This paper overcomes these challenges by developing a novel deep generative model (DGM). The model is driven by two loss functions defined by spatial and temporal discriminators and a regularisation term. These terms guide parameter adjustment by comparing real observations with model-generated data. The first loss function ensures spatial consistency and discourages errors at higher lead times, whereas the second imposes temporal consistency and penalises jumpy predictions. The regularisation term further improves the accuracy by penalising deviations at the local level. The model architecture is based on stacked Convolutional Gated Recurrent (ConvGRU) Un
+</small><br><br/></div>
 
 
 ## Deep Learning and Asset Pricing
