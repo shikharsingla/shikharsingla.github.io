@@ -16,7 +16,12 @@ Please download my [CV here](https://shikharsingla.com/files/cv.pdf).
 ## Supervised Learning and Regulations
 
 
-**[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg_costs_market_power_ss.pdf)** 
+**[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg_costs_market_power_ss.pdf)**
+<small>[ <a href="#/" onclick="visib('reg')">Abstract</a>]</small>
+<div id="reg" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Increased market power and its impacts have been well documented. However, the causes of increased market power remain unknown. We hypothesize that the phenomenal increase in social regulations has disproportionately affected the small firms due to fixed costs, which has led to a rise in market power for the large firms. Regulatory compliance costs in actual dollars, affected industries, and whether the regulations impact small firms are reported by the regulators. This data is unique and not reported in any advanced economy except the US. We use two-step supervised machine learning and data mining to create the data from regulatory documents for social regulations, e.g., environmental regulations, at the 6-digit NAICS level for small and large firms. Regulatory costs have increased by $1 trillion from 1970 to 2018. Small firms face higher costs than large firms even after massive attempts from regulators and politicians to keep the burden on small firms to a minimum. Federal regulations allow us to exploit variation within state-industry-time groups to show that increased regulatory costs result in lower (higher) sales, employment, and markups for small (large) firms. Increased regulations explain 31-37% of the rise in market power.
+</small><br><br/></div>
+
 
 **[The Political Economy of Financial Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250919)**\
 <a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, <a href="https://sites.google.com/view/arkodiptasarkar/" style="color: gray; text-decoration: underline;">Arkodipta Sarkar</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>
