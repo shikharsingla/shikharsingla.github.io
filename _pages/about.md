@@ -33,7 +33,11 @@ Using the negotiation process of the Basel Committee on Banking Supervision (BCB
 ## Word Embeddings and Gender Norms
 
 **[Gender Norms Do Not Persist But Converge Across Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183488)**\
-Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-mukhopadhyay" style="color: gray; text-decoration: underline;">Mayukh Mukhopadhyay</a>
+Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-mukhopadhyay" style="color: gray; text-decoration: underline;">Mayukh Mukhopadhyay</a>\
+<small>[ <a href="#/" onclick="visib('gender')">Abstract</a>]</small>
+<div id="gender" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We investigate the evolution of gender norms for 160 years in the US. Socioeconomists have posited two fundamental and widely debated theories on the evolution of cultural norms across time. One argues that cultural norms should converge across time as economies become more advanced and integrated, whereas the other states that cultural traits are highly persistent, passed down from generation to generation. These theories remain untested due to a lack of granular and high-frequency data over a longer time period. We develop a novel unsupervised machine learning methodology and apply it to 193 million pages of local newspaper text to produce localised attitudes towards women on four dimensions: career vs family, attitudes towards abortion, attitudes towards feminism/suffrage, and violence against women. We establish novel facts on the evolution of attitudes across time. First, attitudes are less persistent than the existing literature hypothesises. Second, the persistence varies considerably across regions and dimensions. Third, attitudes exhibit cyclical patterns. Fourth, regional variation in attitudes decreases considerably over time and has fallen between 64% to 79%. Fifth, a decrease in transport costs that allows for easier information sharing is associated with a homogenisation of the norms.
+</small><br><br/></div>
 
 **Machine Unlearning Human Biases: Inclusive Word Embeddings by Excluding Biased Text**<br/>
 <small>[ <a href="#/" onclick="visib('debias')">Abstract</a> | [Draft](https://shikharsingla.com/files/debias_ss.pdf)]</small>
