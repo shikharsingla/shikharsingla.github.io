@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research agenda is to develop and use artificial intelligence techniques such as word embeddings, deep neural networks, generative models, reinforcement learning, supervised learning, debiasing, computer vision, data extraction in finance areas like regulations, gender norms and asset pricing. 
+My research agenda is to develop and use artificial intelligence techniques such as word embeddings, deep neural networks, generative models, reinforcement learning, supervised learning, debiasing, computer vision, data extraction in finance areas like regulations and gender norms. 
 
 Please download my [CV here](https://shikharsingla.com/files/singla_cv.pdf).
 
@@ -68,7 +68,7 @@ We exploit the establishment of a supranational supervisor in Europe (the Single
 in a shift of particularly risky lending activities to smaller banks. We document lower sales and employment for firms receiving most of their funding from banks that receive a tighter supervisory treatment. Overall, the central supervisor treats banks more equally but has less information about them than the local supervisor.
 </small><br><br/></div>
 
-## Deep Learning and Asset Pricing
+## Deep Learning
 
 **Human-Centred AI Investor Using Deep Generative Models, Reinforcement Learning and Prospect Theory**<br/>
 <small>[ <a href="#/" onclick="visib('hai')">Abstract</a> ]</small>
