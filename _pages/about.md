@@ -66,7 +66,9 @@ We employ a proprietary transaction-level dataset in Germany to examine how capi
 <div id="supra" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We exploit the establishment of a supranational supervisor in Europe (the Single Supervisory Mechanism) to learn how the organizational design of supervisory institutions impacts the enforcement of financial regulation. Banks under supranational supervision are required to increase regulatory capital for exposures to the same firm compared to banks under the local supervisor. Local supervisors provide preferential treatment to larger institutes. The central supervisor removes such biases, which results in an overall standardized behavior. While the central supervisor treats banks more equally, we document a loss in information in banks’ risk models associated with central supervision. The tighter supervision of larger banks results
 in a shift of particularly risky lending activities to smaller banks. We document lower sales and employment for firms receiving most of their funding from banks that receive a tighter supervisory treatment. Overall, the central supervisor treats banks more equally but has less information about them than the local supervisor.
-</small><br><br/></div>## Deep Learning and Asset Pricing
+</small><br><br/></div>
+
+## Deep Learning and Asset Pricing
 
 **Human-Centred AI Investor Using Deep Generative Models, Reinforcement Learning and Prospect Theory**<br/>
 <small>[ <a href="#/" onclick="visib('hai')">Abstract</a> ]</small>
