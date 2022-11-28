@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research agenda is to answer research questions in the areas of regulations, political economy and gender norms by developing and using novel artificial intelligence techniques such as word embeddings, generative models, reinforcement learning, supervised learning.
+My research agenda is to answer research questions in the areas of regulations, political economy and gender norms by developing novel artificial intelligence techniques such as word embeddings, supervised learning, deep learning etc.
 
 Please download my [CV here](https://shikharsingla.com/files/singla_cv.pdf).
 
