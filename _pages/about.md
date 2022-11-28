@@ -13,7 +13,7 @@ Please download my [CV here](https://shikharsingla.com/files/singla_cv.pdf).
 
 # Research
 
-## Supervised Learning and Regulations
+## Regulations
 
 
 **[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg.pdf)** (*Job Market Paper*)\
@@ -30,7 +30,22 @@ Market power in the US has been rising over the last 40 years. However, the caus
 Using the negotiation process of the Basel Committee on Banking Supervision (BCBS), this paper studies the way regulators form their positions on regulatory issues in the process of international standard-setting and the consequences on the resultant harmonized framework. Leveraging on leaked voting records and corroborating them using machine learning techniques on publicly available speeches, we construct a unique dataset containing the positions of banks and national regulators on the regulatory initiatives of Basel II and III. We document that the probability of a regulator opposing a specific initiative increases by 30% if their domestic national champion opposes the new rule, particularly when the proposed rule disproportionately affects them. We find the effect is driven by regulators who had prior experience of working in large banks - lending support to the private-interest theories of regulation. Meanwhile smaller banks, even when they collectively have a higher share in the domestic market, do not have any impact on regulators’ stand - providing little support to public-interest theories of regulation.  Finally, we show this decision-making process manifests into significant watering down of proposed rules, thereby limiting the potential gains from harmonization of international financial regulation.
 </small><br><br/></div>
 
-## Word Embeddings and Gender Norms
+**[Capital Requirements, Market-Making, and Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250896)**\
+<a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, <a href="https://www.bundesbank.de/en/thomas-kick" style="color: gray; text-decoration: underline;">Thomas Kick</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>\
+<small>[ <a href="#/" onclick="visib('capital')">Abstract</a> ]</small>
+<div id="capital" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We employ a proprietary transaction-level dataset in Germany to examine how capital requirements affect the liquidity of corporate bonds. Using the 2011 European Banking Authority capital exercise that mandated certain banks to increase regulatory capital, we find that affected banks reduce their inventory holdings, pre-arrange more trades, and have smaller average trade size. While non-bank affiliated dealers increase their market-making activity, they are unable to bridge this gap - aggregate liquidity declines. Our results are stronger for banks with a higher capital shortfall, for non-investment grade bonds, and for bonds where the affected banks were the dominant market-maker.
+</small><br><br/></div>
+
+**[Supranational Supervision](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4272923)**\
+<a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>\
+<small>[ <a href="#/" onclick="visib('supra')">Abstract</a> ]</small>
+<div id="supra" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We exploit the establishment of a supranational supervisor in Europe (the Single Supervisory Mechanism) to learn how the organizational design of supervisory institutions impacts the enforcement of financial regulation. Banks under supranational supervision are required to increase regulatory capital for exposures to the same firm compared to banks under the local supervisor. Local supervisors provide preferential treatment to larger institutes. The central supervisor removes such biases, which results in an overall standardized behavior. While the central supervisor treats banks more equally, we document a loss in information in banks’ risk models associated with central supervision. The tighter supervision of larger banks results
+in a shift of particularly risky lending activities to smaller banks. We document lower sales and employment for firms receiving most of their funding from banks that receive a tighter supervisory treatment. Overall, the central supervisor treats banks more equally but has less information about them than the local supervisor.
+</small><br><br/></div>
+
+## Gender Norms
 
 **[Gender Norms Do Not Persist But Converge Across Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183488)**\
 Shikhar Singla and <a href="https://www.london.edu/phd/profiles/mayukh-ketan-mukhopadhyay" style="color: gray; text-decoration: underline;">Mayukh Mukhopadhyay</a>\
@@ -51,22 +66,9 @@ Word embeddings exhibit biases such as racial and gender biases due to the prese
 The literature has shown that satellite imagery can be used to measure economic conditions. This paper extends this approach by applying convolutional neural networks on establishment-level high-resolution satellite images to predict real-time firm-level cash flows. The paper leverages recently available high-resolution satellite images made publicly available by Google and innovations in neural network architecture to extract the relevant features from the images that predict firms’ cash flows.
 </small><br><br/></div> -->
 
-## Financial Regulation
+<!-- ## Financial Regulation -->
 
-**[Capital Requirements, Market-Making, and Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250896)**\
-<a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, <a href="https://www.bundesbank.de/en/thomas-kick" style="color: gray; text-decoration: underline;">Thomas Kick</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>\
-<small>[ <a href="#/" onclick="visib('capital')">Abstract</a> ]</small>
-<div id="capital" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We employ a proprietary transaction-level dataset in Germany to examine how capital requirements affect the liquidity of corporate bonds. Using the 2011 European Banking Authority capital exercise that mandated certain banks to increase regulatory capital, we find that affected banks reduce their inventory holdings, pre-arrange more trades, and have smaller average trade size. While non-bank affiliated dealers increase their market-making activity, they are unable to bridge this gap - aggregate liquidity declines. Our results are stronger for banks with a higher capital shortfall, for non-investment grade bonds, and for bonds where the affected banks were the dominant market-maker.
-</small><br><br/></div>
 
-**[Supranational Supervision](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4272923)**\
-<a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>\
-<small>[ <a href="#/" onclick="visib('supra')">Abstract</a> ]</small>
-<div id="supra" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We exploit the establishment of a supranational supervisor in Europe (the Single Supervisory Mechanism) to learn how the organizational design of supervisory institutions impacts the enforcement of financial regulation. Banks under supranational supervision are required to increase regulatory capital for exposures to the same firm compared to banks under the local supervisor. Local supervisors provide preferential treatment to larger institutes. The central supervisor removes such biases, which results in an overall standardized behavior. While the central supervisor treats banks more equally, we document a loss in information in banks’ risk models associated with central supervision. The tighter supervision of larger banks results
-in a shift of particularly risky lending activities to smaller banks. We document lower sales and employment for firms receiving most of their funding from banks that receive a tighter supervisory treatment. Overall, the central supervisor treats banks more equally but has less information about them than the local supervisor.
-</small><br><br/></div>
 
 <!-- ## Deep Learning
 
