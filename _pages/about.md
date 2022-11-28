@@ -68,7 +68,7 @@ We exploit the establishment of a supranational supervisor in Europe (the Single
 in a shift of particularly risky lending activities to smaller banks. We document lower sales and employment for firms receiving most of their funding from banks that receive a tighter supervisory treatment. Overall, the central supervisor treats banks more equally but has less information about them than the local supervisor.
 </small><br><br/></div>
 
-## Deep Learning
+<!-- ## Deep Learning
 
 **Human-Centred AI Investor Using Deep Generative Models, Reinforcement Learning and Prospect Theory**<br/>
 <small>[ <a href="#/" onclick="visib('hai')">Abstract</a> ]</small>
@@ -80,7 +80,7 @@ Artificial intelligence (AI) driven personalised portfolio management and indexe
 <small>[ <a href="#/" onclick="visib('nowcast')">Abstract</a> | Draft Coming Soon ]</small>
 <div id="nowcast" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Economic nowcasting aims to provide predictions that i) are consistent across spatial and temporal dimensions, ii) account for uncertainty and can be verified probabilistically, and iii) perform well on events that are rarer but critical. These characteristics are missing in commonly used deterministic nowcasting methods. Thus these models produce forecasts with higher errors at higher lead times and may not include small-scale yet important patterns. This paper overcomes these challenges by developing a novel deep generative model (DGM). The model is driven by two loss functions defined by spatial and temporal discriminators and a regularisation term. These terms guide parameter adjustment by comparing real observations with model-generated data. The first loss function ensures spatial consistency and discourages errors at higher lead times, whereas the second imposes temporal consistency and penalises jumpy predictions. The regularisation term further improves the accuracy by penalising deviations at the local level. The model architecture is based on stacked Convolutional Gated Recurrent (ConvGRU) Units.
-</small><br><br/></div>
+</small><br><br/></div> -->
 
 [//]: This java script is the button to show abstract
 <script>
