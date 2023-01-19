@@ -70,7 +70,7 @@ The literature has shown that satellite imagery can be used to measure economic 
 
 
 
-<!-- ## Deep Learning
+## Deep Learning
 
 **Human-Centred AI Investor Using Deep Generative Models, Reinforcement Learning and Prospect Theory**<br/>
 <small>[ <a href="#/" onclick="visib('hai')">Abstract</a> ]</small>
@@ -78,11 +78,11 @@ The literature has shown that satellite imagery can be used to measure economic 
 Artificial intelligence (AI) driven personalised portfolio management and indexes have not become as widely adopted as some scholars and industry practitioners have predicted. Two reasons have been proposed for the lack of adoption. First, the lack of Artificial Humanity or Human-Centred AI, i.e., the absence of an AI-driven asset manager that maximises value under more psychologically realistic frameworks, such as prospect theory (PT), instead of just focusing on the mean-variance optimisation. Second, most current AI methods involve supervised machine-learning techniques that use the actual portfolios to learn trading behaviour which contain human biases such as overconfidence and overreaction, leading to lower performance by humans and, thus, AI investors. I combine deep reinforcement learning (DRL) with deep generative models (DGMs) to overcome these two shortcomings. The proposed framework helps overcome three key methodological challenges. First, portfolio optimisation under non-concave functions such as PT is an unsolved problem, but DRL can handle complicated reward functions. Second, DRL learns to predict returns through a trial-and-error search, avoiding human biases. Third, PT investor cares about the entire probability distribution of future stock returns, which can be simulated using DGM as they are fundamentally probabilistic. My paper suggests against the weak efficient market hypothesis and provides a methodology to construct a Human-Centred AI asset manager that aligns with human preferences while avoiding human biases.
 </small><br><br/></div>
 
-**Economic Nowcasting Using Deep Generative Models**<br/>
+<!-- **Economic Nowcasting Using Deep Generative Models**<br/>
 <small>[ <a href="#/" onclick="visib('nowcast')">Abstract</a> | Draft Coming Soon ]</small>
 <div id="nowcast" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Economic nowcasting aims to provide predictions that i) are consistent across spatial and temporal dimensions, ii) account for uncertainty and can be verified probabilistically, and iii) perform well on events that are rarer but critical. These characteristics are missing in commonly used deterministic nowcasting methods. Thus these models produce forecasts with higher errors at higher lead times and may not include small-scale yet important patterns. This paper overcomes these challenges by developing a novel deep generative model (DGM). The model is driven by two loss functions defined by spatial and temporal discriminators and a regularisation term. These terms guide parameter adjustment by comparing real observations with model-generated data. The first loss function ensures spatial consistency and discourages errors at higher lead times, whereas the second imposes temporal consistency and penalises jumpy predictions. The regularisation term further improves the accuracy by penalising deviations at the local level. The model architecture is based on stacked Convolutional Gated Recurrent (ConvGRU) Units.
-</small><br><br/></div> -->
+</small><br><br/></div> --> -->
 
 [//]: This java script is the button to show abstract
 <script>
