@@ -45,6 +45,14 @@ We exploit the establishment of a supranational supervisor in Europe (the Single
 in a shift of particularly risky lending activities to smaller banks. We document lower sales and employment for firms receiving most of their funding from banks that receive a tighter supervisory treatment. Overall, the central supervisor treats banks more equally but has less information about them than the local supervisor.
 </small><br><br/></div>
 
+**Measuring Institutional Strength and Efficiency: Evidence from 200 Years of Legal Cases**<br/>
+<a href="https://www.london.edu/phd/profiles/mayukh-ketan-mukhopadhyay" style="color: gray; text-decoration: underline;">Mayukh Mukhopadhyay</a>, <a href="https://sites.google.com/view/arkodiptasarkar/" style="color: gray; text-decoration: underline;">Arkodipta Sarkar</a> and Shikhar Singla \
+<small>[ <a href="#/" onclick="visib('legal')">Abstract</a> ]</small>
+<div id="legal" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We apply machine learning techniques to 200 years of US legal judgements to measure two major components of institutional quality: the strength of creditor and property rights and the efficiency of courts (measured by the average waiting time per case). Our paper is the first to measure the distribution of institutional quality across states as well as its evolution across time. We show that creditor and property rights have declined steadily across time, which supports narrative evidence from legal scholars on this topic. Court efficiency on the other hand has steadily improved with a 64% decline in waiting times in US Federal Courts from 1900 to 2015. We also provide a framework to analyse the strength of other institutions (e.g., labour regulation) using text data from legal cases.       
+
+</small><br><br/></div>
+
 ## Gender Norms
 
 **[Gender Norms Do Not Persist But Converge Across Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183488)**\
