@@ -47,7 +47,6 @@ in a shift of particularly risky lending activities to smaller banks. We documen
 
   
 
-</small><br><br/></div>
 
 
 
