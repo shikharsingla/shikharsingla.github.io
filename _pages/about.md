@@ -38,6 +38,13 @@ Biodiversity loss has prompted ambitious policies like the “30 by 30” initia
 </small><br><br/></div>
 
 
+**[Do Equity Markets Reflect Biodiversity Regulatory Risk?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242276)**\
+<small>with Ricardo Peña and Zirui Wang</small>\
+<small>[ <a href="#/" onclick="visib('bds')">Abstract</a> ]</small>
+<div id="bds" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We construct a novel firm-level measure of biodiversity regulatory risk. We combine endangered species data with establishment locations to identify firm exposure to Areas of Unprotected Biodiversity Importance (AUBI)—areas likely to be targeted by future conservation policy. Between 2020 and 2023, firms in nature- and location-dependent sectors earned 5.53% lower annual returns per standard deviation increase in AUBI exposure. Returns for high-exposure firms in these sectors were negative following Biden’s 2021 “30 by 30” executive order and positive after the 2024 election. These effects are distinct from carbon risk, suggesting biodiversity regulation is increasingly being priced into equity markets.
+</small><br><br/></div>
+
 **[The Political Economy of Financial Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250919)**\
 <small>with Rainer Haselmann, Arkodipta Sarkar and Vikrant Vig</small>\
 <small>[ <a href="#/" onclick="visib('pol')">Abstract</a> ]</small>
