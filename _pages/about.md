@@ -23,7 +23,7 @@ Market power in the US has been rising over the last 40 years. However, the caus
 </small><br><br/></div>
 
 
-**[The Political Economy of Financial Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250919)**\
+**[Nature’s Premium: Impact of Biodiversity Regulatory Risk on House Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250919)**\
 <a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, <a href="https://sites.google.com/view/arkodiptasarkar/" style="color: gray; text-decoration: underline;">Arkodipta Sarkar</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>\
 <small>[ <a href="#/" onclick="visib('pol')">Abstract</a> ]</small>
 <div id="pol" style="display: none; text-align: justify; line-height: 1.2" ><small>
