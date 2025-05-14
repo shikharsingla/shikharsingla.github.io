@@ -39,7 +39,8 @@ Using the negotiation process of the Basel Committee on Banking Supervision (BCB
 </small><br><br/></div>
 
 **[Capital Requirements, Market-Making, and Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250896)**\
-<a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, <a href="https://www.bundesbank.de/en/thomas-kick" style="color: gray; text-decoration: underline;">Thomas Kick</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>\
+<small>with Peter Feldhütter, Rainer Haselmann, Thomas Kick and Vikrant Vig</small>\
+
 Revise & Resubmit, **Journal of Financial Economics**\
 <small>[ <a href="#/" onclick="visib('capital')">Abstract</a> ]</small>
 <div id="capital" style="display: none; text-align: justify; line-height: 1.2" ><small>
