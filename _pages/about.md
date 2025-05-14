@@ -16,7 +16,7 @@ Please download my [CV here](https://shikharsingla.com/files/singla_cv.pdf).
 ## Regulations
 
 
-**[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg.pdf)** (*Job Market Paper*)\
+**[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg.pdf)**  \
 <small>[ <a href="#/" onclick="visib('reg')">Abstract</a> ]</small>
 <div id="reg" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Market power in the US has been rising over the last 40 years. However, the causes remain largely unknown. This paper uses machine learning on regulatory documents to construct a novel dataset on compliance costs to examine the effect of regulations on market power. The dataset is comprehensive and consists of all significant regulations at the 6-digit NAICS level from 1970-2018. We find that regulatory costs have increased by $1 trillion during this period. Moreover, small firms face higher costs than large firms despite attempts from regulators and politicians to limit the burden on small firms. We document that an increase in regulatory costs results in lower (higher) sales, employment, markups, and profitability for small (large) firms. Regulation driven increase in concentration is associated with lower productivity and investment after the late 1990s. We estimate that increased regulations can explain 31-37% of the rise in market power. Finally, we uncover the political economy of rulemaking. While large firms are opposed to regulations in general, they push for the passage of regulations that have an adverse impact on small firms.
