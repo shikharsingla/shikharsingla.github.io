@@ -22,6 +22,13 @@ Please download my [CV here](https://shikharsingla.com/files/singla_cv.pdf).
 Market power in the US has been rising over the last 40 years. However, the causes remain largely unknown. This paper uses machine learning on regulatory documents to construct a novel dataset on compliance costs to examine the effect of regulations on market power. The dataset is comprehensive and consists of all significant regulations at the 6-digit NAICS level from 1970-2018. We find that regulatory costs have increased by $1 trillion during this period. Moreover, small firms face higher costs than large firms despite attempts from regulators and politicians to limit the burden on small firms. We document that an increase in regulatory costs results in lower (higher) sales, employment, markups, and profitability for small (large) firms. Regulation driven increase in concentration is associated with lower productivity and investment after the late 1990s. We estimate that increased regulations can explain 31-37% of the rise in market power. Finally, we uncover the political economy of rulemaking. While large firms are opposed to regulations in general, they push for the passage of regulations that have an adverse impact on small firms.
 </small><br><br/></div>
 
+**[Capital Requirements, Market-Making, and Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250896)**\
+<small>with Peter Feldhütter, Rainer Haselmann, Thomas Kick and Vikrant Vig</small>\
+<small>Revise & Resubmit, **Journal of Financial Economics**</small>\
+<small>[ <a href="#/" onclick="visib('capital')">Abstract</a> ]</small>
+<div id="capital" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We employ a proprietary transaction-level dataset in Germany to examine how capital requirements affect the liquidity of corporate bonds. Using the 2011 European Banking Authority capital exercise that mandated certain banks to increase regulatory capital, we find that affected banks reduce their inventory holdings, pre-arrange more trades, and have smaller average trade size. While non-bank affiliated dealers increase their market-making activity, they are unable to bridge this gap - aggregate liquidity declines. Our results are stronger for banks with a higher capital shortfall, for non-investment grade bonds, and for bonds where the affected banks were the dominant market-maker.
+</small><br><br/></div>
 
 **[Nature’s Premium: Impact of Biodiversity Regulatory Risk on House Prices]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250919](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241282))**\
 <small>with Maxwell Sacher</small>\
@@ -38,13 +45,7 @@ Biodiversity loss has prompted ambitious policies like the “30 by 30” initia
 Using the negotiation process of the Basel Committee on Banking Supervision (BCBS), this paper studies the way regulators form their positions on regulatory issues in the process of international standard-setting and the consequences on the resultant harmonized framework. Leveraging on leaked voting records and corroborating them using machine learning techniques on publicly available speeches, we construct a unique dataset containing the positions of banks and national regulators on the regulatory initiatives of Basel II and III. We document that the probability of a regulator opposing a specific initiative increases by 30% if their domestic national champion opposes the new rule, particularly when the proposed rule disproportionately affects them. We find the effect is driven by regulators who had prior experience of working in large banks - lending support to the private-interest theories of regulation. Meanwhile smaller banks, even when they collectively have a higher share in the domestic market, do not have any impact on regulators’ stand - providing little support to public-interest theories of regulation.  Finally, we show this decision-making process manifests into significant watering down of proposed rules, thereby limiting the potential gains from harmonization of international financial regulation.
 </small><br><br/></div>
 
-**[Capital Requirements, Market-Making, and Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250896)**\
-<small>with Peter Feldhütter, Rainer Haselmann, Thomas Kick and Vikrant Vig</small>\
-<small>Revise & Resubmit, **Journal of Financial Economics**</small>\
-<small>[ <a href="#/" onclick="visib('capital')">Abstract</a> ]</small>
-<div id="capital" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We employ a proprietary transaction-level dataset in Germany to examine how capital requirements affect the liquidity of corporate bonds. Using the 2011 European Banking Authority capital exercise that mandated certain banks to increase regulatory capital, we find that affected banks reduce their inventory holdings, pre-arrange more trades, and have smaller average trade size. While non-bank affiliated dealers increase their market-making activity, they are unable to bridge this gap - aggregate liquidity declines. Our results are stronger for banks with a higher capital shortfall, for non-investment grade bonds, and for bonds where the affected banks were the dominant market-maker.
-</small><br><br/></div>
+
 
 **[Supranational Supervision](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4272923)**\
 <a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>\
