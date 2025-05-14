@@ -32,8 +32,8 @@ We employ a proprietary transaction-level dataset in Germany to examine how capi
 
 **[Nature’s Premium: Impact of Biodiversity Regulatory Risk on House Prices]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250919](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241282))**\
 <small>with Maxwell Sacher</small>\
-<small>[ <a href="#/" onclick="visib('pol')">Abstract</a> ]</small>
-<div id="pol" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<small>[ <a href="#/" onclick="visib('bdh')">Abstract</a> ]</small>
+<div id="bdh" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Biodiversity loss has prompted ambitious policies like the “30 by 30” initiative, which aims to protect 30% of land by 2030. We develop a county-level biodiversity regulatory risk measure using species data, validated by its ability to predict conservation actions. A difference-in-difference analysis shows that a one standard deviation increase in the measure leads to an increase in house prices by 0.7%, and by 2.1% in areas with high land availability and high demand for nature amenities.  Increased park visits, no restrictions in urban land supply, and media attention to amenity value from conservation projects further support the demand channel.
 </small><br><br/></div>
 
