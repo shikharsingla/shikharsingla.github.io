@@ -48,7 +48,7 @@ Using the negotiation process of the Basel Committee on Banking Supervision (BCB
 
 
 **[Supranational Supervision](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4272923)**\
-<a href="https://www.wiwi.uni-frankfurt.de/abteilungen/finance/lehrstuhl/professur-haselmann/rainer-haselmann.html" style="color: gray; text-decoration: underline;">Rainer Haselmann</a>, Shikhar Singla and <a href="https://www.vikrantvig.com/" style="color: gray; text-decoration: underline;">Vikrant Vig</a>\
+<small>with Rainer Haselmann and Vikrant Vig</small>\
 <small>[ <a href="#/" onclick="visib('supra')">Abstract</a> ]</small>
 <div id="supra" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We exploit the establishment of a supranational supervisor in Europe (the Single Supervisory Mechanism) to learn how the organizational design of supervisory institutions impacts the enforcement of financial regulation. Banks under supranational supervision are required to increase regulatory capital for exposures to the same firm compared to banks under the local supervisor. Local supervisors provide preferential treatment to larger institutes. The central supervisor removes such biases, which results in an overall standardized behavior. While the central supervisor treats banks more equally, we document a loss in information in banks’ risk models associated with central supervision. The tighter supervision of larger banks results
