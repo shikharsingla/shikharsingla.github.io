@@ -30,7 +30,7 @@ Market power in the US has been rising over the last 40 years. However, the caus
 We employ a proprietary transaction-level dataset in Germany to examine how capital requirements affect the liquidity of corporate bonds. Using the 2011 European Banking Authority capital exercise that mandated certain banks to increase regulatory capital, we find that affected banks reduce their inventory holdings, pre-arrange more trades, and have smaller average trade size. While non-bank affiliated dealers increase their market-making activity, they are unable to bridge this gap - aggregate liquidity declines. Our results are stronger for banks with a higher capital shortfall, for non-investment grade bonds, and for bonds where the affected banks were the dominant market-maker.
 </small><br><br/></div>
 
-**[Nature’s Premium: Impact of Biodiversity Regulatory Risk on House Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241282))**\
+**[Nature’s Premium: Impact of Biodiversity Regulatory Risk on House Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241282)**\
 <small>with Maxwell Sacher</small>\
 <small>[ <a href="#/" onclick="visib('bdh')">Abstract</a> ]</small>
 <div id="bdh" style="display: none; text-align: justify; line-height: 1.2" ><small>
