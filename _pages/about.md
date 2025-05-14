@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research agenda is to answer research questions in the areas of regulations and political economy  by developing novel artificial intelligence techniques such as word embeddings, supervised learning, deep learning etc.
+I am an Assistant Professor at the University of Texas McCombs School of Business. My research is in the areas of regulations, biodiversity and artificial intelligence.
 
 Please download my [CV here](https://shikharsingla.com/files/singla_cv.pdf).
 
