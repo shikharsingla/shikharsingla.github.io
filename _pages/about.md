@@ -13,7 +13,7 @@ Please download my [CV here](https://shikharsingla.com/files/singla_cv.pdf).
 
 # Research
 
-## Regulations
+
 
 
 **[Regulatory Costs and Market Power](https://shikharsingla.com/files/reg.pdf)**  \
