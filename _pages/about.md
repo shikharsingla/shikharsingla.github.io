@@ -34,7 +34,7 @@ We employ a proprietary transaction-level dataset in Germany to examine how capi
 <small>with Maxwell Sacher</small>\
 <small>[ <a href="#/" onclick="visib('bdh')">Abstract</a> ]</small>
 <div id="bdh" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Biodiversity loss has prompted ambitious policies like the “30 by 30” initiative, which aims to protect 30% of land by 2030. We develop a county-level biodiversity regulatory risk measure using species data, validated by its ability to predict conservation actions. A difference-in-difference analysis shows that a one standard deviation increase in the measure leads to an increase in house prices by 0.7%, and by 2.1% in areas with high land availability and high demand for nature amenities.  Increased park visits, no restrictions in urban land supply, and media attention to amenity value from conservation projects further support the demand channel.
+Biodiversity loss has prompted ambitious policies like the “30-by-30” initiative, aiming to protect 30% of land by 2030. To study the impact of biodiversity regulatory risk on house prices, we develop a county-level measure using species data. We validate the measure, showing it predicts conservation actions. Difference-in-difference analysis shows that one standard deviation increase in risk increases house prices by 0.7%. The increase is 2.1% in areas with high land availability and high demand for nature amenities. Increased park visits, no restrictions in urban land supply, and media attention to amenity value show the price effect is driven by demand.
 </small><br><br/></div>
 
 
