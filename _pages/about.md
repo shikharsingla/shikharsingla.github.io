@@ -34,11 +34,11 @@ We employ a proprietary transaction-level dataset in Germany to examine how capi
 <small>with Maxwell Sacher</small>\
 <small>[ <a href="#/" onclick="visib('bdh')">Abstract</a> ]</small>
 <div id="bdh" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Biodiversity loss has prompted ambitious policies like the “30-by-30” initiative, aiming to protect 30% of land by 2030. To study the impact of biodiversity regulatory risk on house prices, we develop a county-level measure using species data. We validate the measure, showing it predicts conservation actions. Difference-in-difference analysis shows that one standard deviation increase in risk increases house prices by 0.7%. The increase is 2.1% in areas with high land availability and high demand for nature amenities. Increased park visits, no restrictions in urban land supply, and media attention to amenity value show the price effect is driven by demand.
+Climate policy uncertainty has known economic effects; we examine whether markets price biodiversity policy uncertainty distinctly and how exposed firms respond. We construct novel firm-level measures of exposure to areas of unprotected biodiversity importance and find high-exposure firms in nature- and location-dependent sectors earn lower stock returns. The effect strengthens during periods of heightened policy salience, and event studies show pricing emerges after 2020. We document increases in option-implied volatility, reductions in institutional ownership, and reallocations in emissions for affected firms following key policy announcements. Results reveal a material ESG uncertainty channel with increasing future relevance as biodiversity loss accelerates.
 </small><br><br/></div>
 
 
-**[Do Equity Markets Reflect Biodiversity Regulatory Risk?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242276)**\
+**[Biodiversity Policy Uncertainty: Firm-Level Measurement and Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242276)**\
 <small>with Ricardo Peña and Zirui Wang</small>\
 <small>[ <a href="#/" onclick="visib('bds')">Abstract</a> ]</small>
 <div id="bds" style="display: none; text-align: justify; line-height: 1.2" ><small>
