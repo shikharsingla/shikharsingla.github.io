@@ -34,7 +34,7 @@ We employ a proprietary transaction-level dataset in Germany to examine how capi
 <small>with Maxwell Sacher</small>\
 <small>[ <a href="#/" onclick="visib('bdh')">Abstract</a> ]</small>
 <div id="bdh" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Government financing and regulatory actions are necessary to address biodiversity loss. We construct a novel county-level measure of biodiversity regulatory risk, which we validate using government conservation activity. Using a difference-in-differences design around the “30-by-30” initiative, we find that a one standard deviation increase in risk increases house prices on average by 0.7%, but by 2.1% in counties with ample land supply and high preferences for nature.  The effect is weaker in counties with a higher share of employment in nature-dependent industries. Rents are unchanged, while land values increase more than property values, suggesting a long-term effect and priced-in uncertainty.
+Government financing and regulatory actions are necessary to address biodiversity loss. We construct a novel county-level measure of biodiversity regulatory risk, validated using government conservation activity. Using a difference-in-differences design around the “30-by-30” initiative, we find that a one standard deviation increase in risk increases house prices by 0.6%. The effect is weaker in counties with a higher share of employment in nature-dependent industries. The price increase is concentrated in counties with ample land availability and high preferences for nature, magnified by speculation. While meeting demand in nature-deprived areas, biodiversity conservation has trade-offs: economic growth and housing affordability. 
 </small><br><br/></div>
 
 
