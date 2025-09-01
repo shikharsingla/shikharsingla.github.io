@@ -38,11 +38,11 @@ Government financing and regulatory actions are necessary to address biodiversit
 </small><br><br/></div>
 
 
-**[Biodiversity Policy Uncertainty: Firm-Level Measurement and Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242276)**\
+**[Canaries in the Coal Mine: Firm Response to Biodiversity Policy Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242276)**\
 <small>with Ricardo Peña and Zirui Wang</small>\
 <small>[ <a href="#/" onclick="visib('bds')">Abstract</a> ]</small>
 <div id="bds" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Climate policy uncertainty has known economic effects; we examine whether markets price biodiversity policy uncertainty distinctly and how exposed firms respond. We construct novel firm-level measures of exposure to areas of unprotected biodiversity importance and find high-exposure firms in nature- and location-dependent sectors earn lower stock returns. The effect strengthens during periods of heightened policy salience, and event studies show pricing emerges after 2020. We document increases in option-implied volatility, reductions in institutional ownership, and reallocations in emissions for affected firms following key policy announcements. Results reveal a material ESG uncertainty channel with increasing future relevance as biodiversity loss accelerates.
+We construct a novel spatial measure of biodiversity policy risk by linking endangered species habitat maps to firm establishments. Equity, option, and institutional investor responses validate that the measure captures meaningful policy risk. Using this measure, we show that exposed firms adjust their environmental footprint in response to a conservation-oriented policy announcement: toxic releases by manufacturing facilities decline in sensitive areas, facility presence contracts in high-exposure counties, and vegetation increases around high-polluting, high-exposure facilities. These results demonstrate the efficacy of location-based biodiversity policy in curbing harmful firm activity in sensitive areas and generating positive ecological impacts.
 </small><br><br/></div>
 
 **[The Political Economy of Financial Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250919)**\
