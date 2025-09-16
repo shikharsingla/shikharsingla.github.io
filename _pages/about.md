@@ -39,7 +39,7 @@ We construct a county-level measure of exposure to potential conservation effort
 
 
 **[Canaries in the Coal Mine: Firm Response to Biodiversity Policy Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242276)**\
-<small>with Ricardo Peña and Zirui Wang</small>\
+<small>with Ricardo Peña</small>\
 <small>[ <a href="#/" onclick="visib('bds')">Abstract</a> ]</small>
 <div id="bds" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We construct a novel spatial measure of biodiversity policy risk by linking endangered species habitat maps to firm establishments. Equity, option, and institutional investor responses validate that the measure captures meaningful policy risk. Using this measure, we show that exposed firms adjust their environmental footprint in response to a conservation-oriented policy announcement: toxic releases by manufacturing facilities decline in sensitive areas, facility presence contracts in high-exposure counties, and vegetation increases around high-polluting, high-exposure facilities. Together, the findings highlight the efficacy of biodiversity conservation policy in constraining harmful firm activity and improving local ecological outcomes.
