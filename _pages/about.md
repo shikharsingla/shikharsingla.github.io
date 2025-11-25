@@ -45,12 +45,6 @@ Government financing and regulatory actions have been pledged to address biodive
 We study whether firms respond to local biodiversity policy risk and whether those adjustments spill over to other regions through their plant networks. Using a novel measure that links endangered species habitats to firm establishments, we find that a conservation-oriented policy announcement leads exposed firms to cut toxic releases and reduce presence in ecologically sensitive areas. Importantly, these changes improve local vegetation and bird diversity. However, firms reallocate production and toxic releases to non-sensitive areas, though this reallocation is imperfect. Thus, while conservation policy improves priority habitats, it may simultaneously intensify environmental harm in regions not covered by protections.
 </small><br><br/></div>
 
-**[The Political Economy of Financial Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250919)**\
-<small>with Rainer Haselmann, Arkodipta Sarkar and Vikrant Vig</small>\
-<small>[ <a href="#/" onclick="visib('pol')">Abstract</a> ]</small>
-<div id="pol" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Using the negotiation process of the Basel Committee on Banking Supervision (BCBS), this paper studies the way regulators form their positions on regulatory issues in the process of international standard-setting and the consequences on the resultant harmonized framework. Leveraging on leaked voting records and corroborating them using machine learning techniques on publicly available speeches, we construct a unique dataset containing the positions of banks and national regulators on the regulatory initiatives of Basel II and III. We document that the probability of a regulator opposing a specific initiative increases by 30% if their domestic national champion opposes the new rule, particularly when the proposed rule disproportionately affects them. We find the effect is driven by regulators who had prior experience of working in large banks - lending support to the private-interest theories of regulation. Meanwhile smaller banks, even when they collectively have a higher share in the domestic market, do not have any impact on regulators’ stand - providing little support to public-interest theories of regulation.  Finally, we show this decision-making process manifests into significant watering down of proposed rules, thereby limiting the potential gains from harmonization of international financial regulation.
-</small><br><br/></div>
 
 
 
