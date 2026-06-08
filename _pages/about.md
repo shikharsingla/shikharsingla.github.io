@@ -31,7 +31,7 @@ We employ a proprietary transaction-level dataset in Germany to examine how capi
 </small><br><br/></div>
 
 
-**[Do Heterogeneous ESG Preferences Distort Corporate Bond Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5823604)**\
+**[Do Heterogeneous ESG Preferences Distort Corporate Bond Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5823604)**\
 <small>with Eric Lee</small>\
 <small>[ <a href="#/" onclick="visib('bdh')">Abstract</a> ]</small>
 <div id="bdh" style="display: none; text-align: justify; line-height: 1.2" ><small>
