@@ -46,11 +46,11 @@ Government financing and regulatory actions have been pledged to address biodive
 </small><br><br/></div>
 
 
-**[Canaries in the Coal Mine: Firm Response to Biodiversity Policy Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242276)**\
+**[Run Down or Reallocate? Firm Responses to Transition Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242276)**\
 <small>with Ricardo Peña</small>\
 <small>[ <a href="#/" onclick="visib('bds')">Abstract</a> ]</small>
 <div id="bds" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We study whether firms respond to local biodiversity policy risk and whether those adjustments spill over to other regions through their plant networks. Using a novel measure that links endangered species habitats to firm establishments, we find that a conservation-oriented policy announcement leads exposed firms to cut toxic releases and reduce presence in ecologically sensitive areas. Importantly, these changes improve local vegetation and bird diversity. However, firms reallocate production and toxic releases to non-sensitive areas, though this reallocation is imperfect. Thus, while conservation policy improves priority habitats, it may simultaneously intensify environmental harm in regions not covered by protections.
+We study firms’ responses to transition risk from anticipated U.S. conservation policy. Linking polluting establishments to a validated measure of unprotected endangered biodiversity, we find that high-exposure single-plant firms increase emissions and production while reducing abatement. Exposed facilities of multi-plant firms do the opposite. The former is consistent with accelerated use of potentially stranded assets; the latter provides evidence of within-firm reallocation. Responses are imperfect, as Tobin’s Q declines for each firm. Vegetation and avian biodiversity decline near exposed single-plant facilities, with no improvement near multi-plant facilities. Thus, we find transition risk generates unintended effects when firms lack reallocation margins.
 </small><br><br/></div>
 
 
