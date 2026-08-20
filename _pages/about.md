@@ -38,11 +38,11 @@ We employ a proprietary transaction-level dataset in Germany to examine how capi
 Heterogeneous investor preferences over ESG issues can generate divergent portfolio choices and distort prices from fundamentals, especially in illiquid markets. We study this mechanism in the corporate bond market around the 30-by-30 Initiative, which increased the salience of nature as an issue. Mutual funds with high ESG ratings reduce holdings of bonds issued by nature-dependent firms with high biodiversity exposure, while no other investor does. Credit spreads of these bonds increase for a year. Further tests show the selling arises from non-financial incentives, causes outflows in other funds, and leads to a decline in price informativeness.
 </small><br><br/></div>
 
-**[Biodiversity Protection Policy and Housing Markets: Supply, Demand, and Speculation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241282)**\
+**[Land Use Uncertainty and Housing Speculation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241282)**\
 <small>with Maxwell Sacher</small>\
 <small>[ <a href="#/" onclick="visib('bdh')">Abstract</a> ]</small>
 <div id="bdh" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Government financing and regulatory actions have been pledged to address biodiversity loss, yet their economic impacts remain unclear. We construct a county-level measure of exposure to potential conservation efforts. Exploiting the 30×30 initiative as a plausibly exogenous shock, we find that a one standard deviation increase in regulatory risk increases house prices by 0.6%. Effects are weaker in counties reliant on nature-intensive industries, but stronger in land-abundant counties, where supply is more elastic and demand for nature amenities is high. Speculative behavior magnifies the price increase. Overall, conservation policies satisfy nature demand but entail trade-offs for growth and housing affordability.
+Land use uncertainty can trigger housing speculation. We study the federal 30-by-30 initiative, which pledged to conserve 30 percent of U.S. lands by 2030 without specifying where, when, or how. Counties with more unprotected endangered biodiversity experience higher house prices after the announcement, but only in land abundant markets, where the option value of undeveloped land is most sensitive to policy uncertainty. Vacant land values rise more sharply than house prices, investors accumulate undeveloped land, and speculation spills into housing through higher flipping and investor ownership. Prices decline after the initiative's reversal, producing a speculative boom-bust cycle.
 </small><br><br/></div>
 
 
